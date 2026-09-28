@@ -1,18 +1,29 @@
-# ML Journey — Teching repository
+# ML Journey
 
-This is my path to ML.
-There I put my progress, projects and solutions.
+My path to becoming an ML Engineer. This repository documents my learning, practice, and projects.
 
+## Goals
+- Land an ML Engineer role abroad (relocation with family)
+- Build production-ready ML projects
+- Reach English B2+ for technical interviews
 
-## What inside
-- `sql/` — SQL solution (window funtions, JOIN, subrequests)
-- `eda/` — notebooks with data set analize
-- `projects/` — learning ML-projects
+## Structure
+- `sql/` — SQL practice (window functions, JOINs, subqueries)
+- `eda/` — Exploratory Data Analysis notebooks
+- `projects/` — End-to-end ML projects
 
-## Прогресс
-- [x] SQL: windows functions
-- [ ] Pandas: EDA
-- [ ] First ML-projects
+## Progress
+- [x] Repository setup
+- [x] SQL: window functions
+- [ ] SQL: JOINs
+- [ ] EDA: Titanic
+- [ ] First ML project (CatBoost + FastAPI + Docker)
 
-## Ho to run
-Notebooks open in Jupyter/Colab. SQL-files — any SQL-client (DBeaver, PostgreSQL).
+## Tech Stack (learning)
+Python, Pandas, NumPy, scikit-learn, CatBoost, PyTorch, SQL, Docker, FastAPI, MLflow
+
+## How to Run
+Notebooks open in Jupyter/Colab. SQL files run in any SQL client (DBeaver, PostgreSQL).
+
+## Contact
+- GitHub: [@raxvandy](https://github.com/raxvandy)
